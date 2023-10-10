@@ -5,7 +5,13 @@ A text compression tool which uses [Huffman coding](https://en.wikipedia.org/wik
 ## Building
 
 ```sh
-./configure && make
+make
+```
+
+## Testing
+
+```sh
+make test
 ```
 
 ## License
