@@ -4,7 +4,7 @@
 #include <string>
 #include <map>
 
-int main(int argc, char* argv[])
+int main([[maybe_unused]] int argc, char* argv[])
 {
     if (argv[1] == nullptr)
     {
